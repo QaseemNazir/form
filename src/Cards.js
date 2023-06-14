@@ -13,6 +13,7 @@ const Cards = () => {
              <h1 style={{fontSize:'25px',marginLeft:'1%',color:'lightblue'}}> Without Charges</h1>
 
         </div>
+    
 
         <div className='Card_2'>
         <img src='http://assets.rappler.com/2AFB7D5E5C734656A2BF5933B04681AC/img/83611058FD43467D99AB4A81C271E237/shutterstock-business-technology.jpg' height={300}  width={350} />
